@@ -12,15 +12,13 @@
 
 
 我就职于天津大学智能与计算学部。2012年毕业于天津大学，加拿大University of Alberta联合培养博士。
-
 研究兴趣包括计算机视觉，图像合成，机器学习，尤其是文化遗产保护和市政工程的跨领域研究问题。
-
 同时，是Signal Processing, Signal Processing Letter, Journal of Electronic Imaging, SIVP等国际期刊和会议的审稿人。
 
 
 [Link](url) and ![Image](src)
 
-
+**我是计算机科学与技术（学硕）、软件工程（学硕）、电子信息（专硕）、新媒体专业的研究生导师。**
 **我每年有若干名研究生名额，欢迎有意从事相关领域的各年级本科生、研究生加入我的团队！**
 
 ## 发表的部分论文:
