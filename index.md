@@ -10,13 +10,13 @@
 
 ### 讲授课程：面向对象程序设计（本），自然语言处理导论（本），高级计算机视觉（硕）。
 
-<table><tr><td bgcolor=lightgrey>
+
 我就职于天津大学智能与计算学部。2012年毕业于天津大学，加拿大University of Alberta联合培养博士。
 
 研究兴趣包括计算机视觉，图像合成，机器学习，尤其是文化遗产保护和市政工程的跨领域研究问题。
 
 同时，是Signal Processing, Signal Processing Letter, Journal of Electronic Imaging, SIVP等国际期刊和会议的审稿人。
-</td></tr></table>
+
 
 [Link](url) and ![Image](src)
 
