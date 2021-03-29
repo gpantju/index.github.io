@@ -10,7 +10,7 @@ Email：pangang (at) tju.edu.cn
 
 讲授课程：面向对象程序设计（本），自然语言处理导论（本），高级计算机视觉（硕）。
 
-<table><tr><td bgcolor=lightgrey>背景色yellow</td></tr></table>
+<table><tr><td bgcolor=lightlightgrey>背景色yellow</td></tr></table>
 
 <table><tr><td bgcolor=#dcddde>
 我就职于天津大学智能与计算学部。
