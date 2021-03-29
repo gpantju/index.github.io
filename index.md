@@ -10,8 +10,7 @@ Email：pangang (at) tju.edu.cn
 
 讲授课程：面向对象程序设计（本），自然语言处理导论（本），高级计算机视觉（硕）。
 
-<table><tr><td bgcolor=#D1EEEE>背景色的设置是按照十六进制颜色值：#D1EEEE</td></tr></table>
-
+<table><tr><td bgcolor=yellow>背景色yellow</td></tr></table>
 
 <table><tr><td bgcolor=#dcddde>
 我就职于天津大学智能与计算学部。
