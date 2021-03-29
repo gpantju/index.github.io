@@ -19,7 +19,7 @@
 [Link](url) and ![Image](src)
 
 **我是计算机科学与技术（学硕）、软件工程（学硕）、电子信息（专硕）、新媒体专业的研究生导师。**
-**我每年有若干名研究生名额，欢迎有意从事相关领域的各年级本科生、研究生加入我的团队！**
+**我每年有若干研究生名额，欢迎有意从事相关领域的各年级本科生、研究生加入我的团队！**
 
 ## 发表的部分论文:
 [1] Yijing Mei, Xiaojie Guo, Gang Pan(corresponding author), "Deep Supervised Image Retargeting", ICME, 2021.(CCF B)
