@@ -18,17 +18,8 @@
 同时，是Signal Processing, Signal Processing Letter, Journal of Electronic Imaging, SIVP等国际期刊和会议的审稿人。
 </td></tr></table>
 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
 [Link](url) and ![Image](src)
-```
+
 
 **我每年有若干名研究生名额，欢迎有意从事相关领域的各年级本科生、研究生加入我的团队！**
 
