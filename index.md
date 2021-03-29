@@ -19,10 +19,6 @@
 </td></tr></table>
 
 
-# Header 1
-## Header 2
-### Header 3
-
 - Bulleted
 - List
 
@@ -34,10 +30,10 @@
 [Link](url) and ![Image](src)
 ```
 
-我每年有若干名研究生名额，
-欢迎有意从事相关领域的各年级本科生、研究生加入我的团队！
+**我每年有若干名研究生名额，
+欢迎有意从事相关领域的各年级本科生、研究生加入我的团队！**
 
-### 发表的部分论文:
+## 发表的部分论文:
 [1] Yijing Mei, Xiaojie Guo, Gang Pan(corresponding author), "Deep Supervised Image Retargeting", ICME, 2021.(CCF B)
 
 [2] Wenxu Li, Gang Pan(corresponding author), etc. "From Coarse to Fine: Hierarchical Structure-Aware Video Summarization", ICPR w, 2021.
@@ -77,11 +73,11 @@
 [19] Zhang Jiawan, Pan Gang. "A locatable zero watermarking scheme and visualization for 3D mesh models." Proceedings of the Sixth International Conference on Computer Graphics, Imaging and Visualization. 2009.
 
 
-### 我们的团队:
+## 我们的团队:
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-### 部分毕业生去向：
+## 部分毕业生去向：
 
 21届硕 18届本 郑耀先 腾讯 （ 研究生国奖）         
 
