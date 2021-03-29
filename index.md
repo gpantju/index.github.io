@@ -10,23 +10,17 @@ Email：pangang (at) tju.edu.cn
 
 讲授课程：面向对象程序设计（本），自然语言处理导论（本），高级计算机视觉（硕）。
 
-You can use the [editor on GitHub](https://github.com/gpantju/index/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+我就职于天津大学智能与计算学部。
+
+2012年毕业于天津大学，加拿大University of Alberta联合培养博士。
+
+研究兴趣包括计算机视觉，图像合成，机器学习，尤其是市政工程和文化遗产保护的跨领域研究问题。
+
+同时，是Signal Processing, Signal Processing Letter, Journal of Electronic Imaging, SIVP等国际期刊和会议的审稿人。
 
 ```markdown
-**我就职于天津大学智能与计算学部。**
-
-**2012年毕业于天津大学，加拿大University of Alberta联合培养博士。**
-
-**研究兴趣包括计算机视觉，图像合成，机器学习，尤其是市政工程和文化遗产保护的跨领域研究问题。**
-
-**同时，是Signal Processing, Signal Processing Letter, Journal of Electronic Imaging, SIVP等国际期刊和会议的审稿人。**
-
 
 # Header 1
 ## Header 2
