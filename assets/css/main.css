@@ -1710,7 +1710,7 @@ input, select, textarea {
 		margin: 0 auto;
 		max-width: calc(100% - 4.5em);
 		width: 45em;
-		line-height: 50%;
+		line-height: 10%;
 	}
 
 		.container.xsmall {
